@@ -27,4 +27,4 @@ A beginner-friendly port scanner implemented in Python. It attempts to connect t
 - **Python 3.7+** (The standard library `socket` module is used, so no additional packages are strictly necessary.)
 - (Optional) If you want to store or display results in a particular way, you can list those dependencies in `requirements.txt`.
 
-Example `requirements.txt`:
+
