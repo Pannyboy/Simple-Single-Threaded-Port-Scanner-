@@ -1,6 +1,6 @@
 # Simple Single-Threaded Port Scanner
 
-A beginner-friendly port scanner implemented in Python. It attempts to connect to a range of TCP ports on a target host to determine which ports are open. This project is for **educational purposes only**—always ensure you have permission before scanning any systems or networks.
+A beginner-friendly port scanner implemented in Python. It attempts to connect to a range of TCP ports on a target host to determine which ports are open. This project is for **educational purposes only**—.
 
 ---
 
